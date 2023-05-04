@@ -1,0 +1,16 @@
+body{
+    background-image: url('download\ \(1\).jpg');
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+h3{
+font-size:25px !important;
+
+}
+
+canvas{
+    border:2px dashed red;
+    margin-top: 55px;
+}
